@@ -1,4 +1,4 @@
-# Linexin
+# 🍋 Citrus Linux
 
 <p align="center">
   <img src="https://i.imgur.com/qZRvycj.png" alt="logo" with="200" height="200"/>
